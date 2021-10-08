@@ -1,7 +1,6 @@
 # Hi there 👋 Welcome to Steve Miller's Profile 
 
-
-<a href="https://app.daily.dev/ssmiller25"><img src="https://api.daily.dev/devcards/be1fc7bbd8634bc4a95a3a77baf5dca1.png?r=9za" width="400" alt="Steve Miller's Dev Card"/></a>
+<a href="https://app.daily.dev/ssmiller25"><img src="https://github.com/ssmiller25/ssmiller25/blob/master/devcard.svg" width="400" alt="Steve Miller's Dev Card"/></a>
 
 ## 🔎 About Me 🔍
 
