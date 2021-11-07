@@ -4,12 +4,14 @@
 
 ## 🔎 About Me 🔍
 
-- A DevOps Pratitioner with an appreciation for robust architectures.
+<!--Thanks to https://javascript.plainenglish.io/how-to-make-custom-language-badges-for-your-profile-using-shields-io-d2aeaf016b6b for custom badge tutorial -->
+
+- A DevOps Practitioner with an appreciation for robust architectures.
 - All things ☁️ CNCF and ☸️ Kubernetes.
-- Being a great husband and father
-- <img src="https://img.shields.io/badge/Primary%20Languages-Shell%2C%20Python%2C%20Go-brightgreen.svg"><br/>
-- <img src="https://img.shields.io/badge/Primary%20Enviornment-Docker%2C%20Kubernetes%2C%20ClusterAPI%2C%20CrossPlane-brightgreen.svg"><br/>
-- For more, see my [main homepage/blog](https://www.r15cookie.com)
+- Working to be a great husband and father
+- Languages: <img src="https://img.shields.io/badge/-Go-888888?logo=go"> <img src="https://img.shields.io/badge/-Shell/Bash-888888?logo=gnubash"> <img src="https://img.shields.io/badge/-Python-888888?logo=python">
+- Environments: <img src="https://img.shields.io/badge/-Kubernetes-888888?logo=kubernetes"> <img src="https://img.shields.io/badge/-Docker-888888?logo=docker"> <img src="https://img.shields.io/badge/-ClusterAPI-888888?logo=kubernetes"> <img src="https://img.shields.io/badge/-CrossPlane-888888?logo=kubernetes">
+- For more see my [main homepage](https://www.r15cookie.com)
 
 ## 🔭 I’m currently working on:
 - `#DadOps`: New infant and toddler, so family life is fun now.
