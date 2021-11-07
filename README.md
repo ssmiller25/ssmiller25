@@ -4,18 +4,13 @@
 
 ## 🔎 About Me 🔍
 
+<!--Thanks to https://javascript.plainenglish.io/how-to-make-custom-language-badges-for-your-profile-using-shields-io-d2aeaf016b6b for custom badge tutorial -->
+
 - A DevOps Practitioner with an appreciation for robust architectures.
 - All things ☁️ CNCF and ☸️ Kubernetes.
 - Working to be a great husband and father
-- Languages: <!--Thanks to https://javascript.plainenglish.io/how-to-make-custom-language-badges-for-your-profile-using-shields-io-d2aeaf016b6b for custom badge tutorial -->
-  - <img src="https://img.shields.io/badge/-Go-888888?logo=go"><br/>
-  - <img src="https://img.shields.io/badge/-Shell/Bash-888888?logo=gnubash"><br/>
-  - <img src="https://img.shields.io/badge/-Python-888888?logo=python"><br/>
-- Environments:
-  - <img src="https://img.shields.io/badge/-Kubernetes-888888?logo=kubernetes"><br/>
-  - <img src="https://img.shields.io/badge/-Docker-888888?logo=docker"><br/>
-  - <img src="https://img.shields.io/badge/-ClusterAPI-888888?logo=kubernetes"><br/>
-  - <img src="https://img.shields.io/badge/-CrossPlane-888888?logo=kubernetes"><br/>
+- Languages: <img src="https://img.shields.io/badge/-Go-888888?logo=go"> <img src="https://img.shields.io/badge/-Shell/Bash-888888?logo=gnubash"> <img src="https://img.shields.io/badge/-Python-888888?logo=python">
+- Environments: <img src="https://img.shields.io/badge/-Kubernetes-888888?logo=kubernetes"> <img src="https://img.shields.io/badge/-Docker-888888?logo=docker"> <img src="https://img.shields.io/badge/-ClusterAPI-888888?logo=kubernetes"> <img src="https://img.shields.io/badge/-CrossPlane-888888?logo=kubernetes">
 - For more see my [main homepage](https://www.r15cookie.com)
 
 ## 🔭 I’m currently working on:
