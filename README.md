@@ -1,7 +1,5 @@
 # Hi there 👋 Welcome to Steve Miller's Profile 
 
-<a href="https://app.daily.dev/ssmiller25"><img src="https://github.com/ssmiller25/ssmiller25/blob/main/devcard.svg" width="400" alt="Steve Miller's Dev Card"/></a>
-
 ## 🔎 About Me 🔍
 
 <!--Thanks to https://javascript.plainenglish.io/how-to-make-custom-language-badges-for-your-profile-using-shields-io-d2aeaf016b6b for custom badge tutorial -->
