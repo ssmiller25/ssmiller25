@@ -12,12 +12,11 @@
 - For more see my [main homepage](https://www.r15cookie.com)
 
 ## 🔭 I’m currently working on:
-- `#DadOps`: New infant and toddler, so family life is fun now.
-- Cloud Native Infrastructure with [Civo](https://www.civo.com/) and [Coder](https://coder.com/)
+- `#DadOps`: A daughter and son, so family life is fun now.
+- Cloud Native Infrastructure with [Civo](https://www.civo.com/) and [Devcontainers](https://containers.dev)
 ## 🌱 I’m currently learning:
 - Fully Turing-Complete Infrastructure Languages, and how they compare with Terraform.  Terraform CDK/Pulumi/PyInfra/etc....
 ## 📫 How to reach me: 
-- [Mastodon](https://cloud-native.social/@ssmiller25)
 - [LinkedIn](https://www.linkedin.com/in/steve-miller-9936632/)
 - [Email](https://www.r15cookie.com/contact/)
 
