@@ -7,8 +7,8 @@
 - A DevOps Practitioner with an appreciation for robust architectures.
 - All things ☁️ CNCF and ☸️ Kubernetes.
 - Working to be a great husband and father
-- Languages: <img src="https://img.shields.io/badge/-Shell/Bash-888888?logo=gnubash"> <img src="https://img.shields.io/badge/-Python-888888?logo=python">
-- Environments: <img src="https://img.shields.io/badge/-Kubernetes-888888?logo=kubernetes"> <img src="https://img.shields.io/badge/-Docker-888888?logo=docker">  <img src="https://img.shields.io/badge/-Terraform-888888?logo=terraform">
+- Languages: <img src="https://img.shields.io/badge/-Shell/Bash-888888?logo=gnubash"> <img src="https://img.shields.io/badge/-Python-888888?logo=python"> <img src="https://img.shields.io/badge/-Terraform-888888?logo=terraform">
+- Environments: <img src="https://img.shields.io/badge/-Kubernetes-888888?logo=kubernetes"> <img src="https://img.shields.io/badge/-Docker-888888?logo=docker">
 - For more see my [main homepage](https://www.r15cookie.com)
 
 ## 🔭 I’m currently working on:
